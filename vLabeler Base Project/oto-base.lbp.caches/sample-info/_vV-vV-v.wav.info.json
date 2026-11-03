@@ -1,0 +1,21 @@
+{
+    "name": "vV-vV-v.wav",
+    "file": "vV-vV-v.wav",
+    "convertedFile": null,
+    "moduleName": "",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 187753,
+    "lengthMillis": 4257.4375,
+    "chunkSize": 187753,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1719733158135,
+    "algorithmVersion": 4
+}

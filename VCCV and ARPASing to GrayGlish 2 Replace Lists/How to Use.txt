@@ -1,0 +1,52 @@
+How to Use Guide for GrayGlish 2.0 Banks and Replace Lists
+_____________
+
+- Please utilize the pronunciation guide as well.
+- Phonemes with hyphens in front (e.g. "-a") should be placed at the beginning of a phrase.
+- Phonemes with hypens at the end (e.g. "a-") should be placed at the end of a phrase.
+- Main CVs look like "ha," "DeI," etc.
+- VVs have space between vowels, "aI oU," "E i," etc.
+- Vowel-vowel transitions for two of the same vowel are marked with "_", i.e. "_a", "_oU", etc.
+- Most CCs have hypenated ending and beginnings and unhyphenated middles, such as "-st," "st," and "st-".
+_____________
+
+IroIro2 Replace list
+
+For assistance with converting VCCV English or ARPASing phonemes to GrayGlish 1.0 X-Sampa, I have created replace lists for use in IroIro2.
+
+Video guide:  https://youtu.be/21Dt25XPDDA
+
+Follow the below steps to use the replace list:
+
+1) Make sure iroiro2 is installed properly and with the English translation.
+2) Copy the "VCCV to Gryaglish 2"/"ARPASing to GrayGlish 2" text file(s).
+3) Navigate to where the iroiro2 plugin folder is, for me that's C:\Tools\Utau\plugins\iroiro2.
+4) Open the "Replace" Folder, then "Tikan".
+5) Paste "VCCV to GrayGlish 2"/"ARPASing to GrayGlish 2" in that location.
+6) Open UTAU and a VCCV English or ARPASing UST.
+7) Select all or the portion of the UST's notes you're converting.
+8) Open IroIro2.
+9) Select "Replace (By List)".
+10) In the "Replacement" drop down menu, select the VCCV to GrayGlish 2 or ARPASing to GrayGlish 2 option, depending on which UST you chose.
+11) Press OK in that menu and OK in the main menu to change the phonemes.
+
+Conversion won't always be accurate, but it will assist in conversion and will help familiarize you with GrayGlish 2.0's X-Sampa.
+
+_____________
+
+GraySlate's Social Media
+
+https://discord.gg/z5UEy8h95h
+https://www.deviantart.com/grayslate
+https://www.youtube.com/c/GraySlate
+https://grayslate.newgrounds.com/
+https://vocadb.net/Ar/79983
+https://assbackwardsp.bandcamp.com/
+https://www.instagram.com/zephyrartistry/?hl=en
+https://www.reddit.com/user/MamaZephy
+https://ko-fi.com/grayslate
+https://www.etsy.com/shop/GraySlatebyGray
+https://artistree.io/grayslate
+https://soundcloud.com/assbackwardsp
+https://www.pixiv.net/member.php?id=7895947
+https://www.utaubackwards.com/
